@@ -1,0 +1,22 @@
+{
+  "name": "sanjiportfolio",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanji-Labz123/SanjiPortfolio.git"
+  },
+  "author": "Sanji-Labz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanji-Labz123/SanjiPortfolio/issues"
+  },
+  "homepage": "https://github.com/Sanji-Labz123/SanjiPortfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
