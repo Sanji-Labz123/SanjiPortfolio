@@ -16,5 +16,5 @@ app.get('/contact',function(req,res){
     res.sendFile(path.join(_dirname+'/public/contact.html'));
 });
 
-app.listen(process.env.PORT || 3000);
-console.log('working on 3000');
+app.listen(process.env.PORT || 8000);
+console.log('working on 8000');
